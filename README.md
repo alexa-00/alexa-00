@@ -53,15 +53,15 @@ Here are some ideas to get you started:
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/express.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/lua.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'>
+<!--  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/lua.png' height='50px'> -->
+<!--  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'> -->
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/vue.png' height='50px'>
+<!--<img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='50px'> -->
+<!--  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='50px'> -->
+<!-- <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/vue.png' height='50px'> -->
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
