@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **alexa-00/alexa-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 # BIO
 <!-- CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork) -->
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+⚡ Bass Music, ⚛️ Time Traveler, 🌎 Astronomy, and 🧪 Medicine.  
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=alexa-00&color=blueviolet)
 
 **Contact me on Discord: NexDrak#9439**
 
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='100px'> |
 | <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I participate.</p>
+<!-- <h2 align="center">Organizations</h2>
+<p align="center">A summary of organizations in which I participate.</p> -->
 
 <!-- | <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**Pulse**</a> |
 |:---: | :---: | :---: | :---:|
