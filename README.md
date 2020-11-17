@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 **Contact me on Discord: NexDrak#9439**
 
-<h2 align="center">Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
+<!-- <h2 align="center">Projects</h2>
+<p align="center">Take a look at my most outstanding projects.</p>  -->
 
-| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
+<!--| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
 | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='100px'> |
-| <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
+| <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/"  target="_blank">`2lidea.glitch.me`</a> |  -->
 
 <!-- <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p> -->
