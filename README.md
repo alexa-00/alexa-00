@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # BIO
 <!-- CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork) -->
 
-⚡ Bass Music, ⚛️ Time Traveler, 🌎 Astronomy, and 🧪 Medicine.  
+⚡ Bass Music, ⚛️ Time Traveler, 🌎 Astronomy, and 🧪 Medicine.  o si
   
 ![](https://komarev.com/ghpvc/?username=alexa-00&color=blueviolet)
 
